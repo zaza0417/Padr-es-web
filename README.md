@@ -4,7 +4,7 @@ Este repositorio é referente a disciplina padrões web. Temos que fazer um site
 
 Colaboradores:
 ° Isac Alves
-° Fernando Alxandre
+° Fernando Alexandre
 ° Lucas Freitas
 ° Thadio
 ° Gabriel
